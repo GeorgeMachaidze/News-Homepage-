@@ -1,0 +1,89 @@
+#bottom{
+  padding: 3% 10% 7%;
+}
+.first-container{
+  padding: 3% 10% 7%;
+}
+.navbar{
+  padding: 0;
+  right: 17px;
+}
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  color: hsl(236, 13%, 42%);
+}
+.big-container{
+  padding-top: 40px;
+}
+.small-container{
+  margin-top: 40px;
+}
+.main-img{
+  width: 100%;
+}
+.right-list{
+  background-color: hsl(240, 100%, 5%);
+  margin-left: 15px;
+  text-align: left;
+
+}
+.first-text{
+  font-weight: 800;
+  font-family: 'Inter';
+  font-size: 3.9rem;
+  text-align: left;
+  color: hsl(240, 100%, 5%);
+}
+.list-text{
+  color: hsl(36, 100%, 99%);
+  font-size: 1.1rem;
+  margin-top: -50px;
+}
+.bottom-element{
+  margin: 0px;
+}
+.btn{
+  background-color: hsl(5, 85%, 63%);
+  border-radius: 0;
+  margin-top: 90px;
+  width: 300px;
+  height: 70px;
+  color: hsl(36, 100%, 99%);
+  font-family: 'Inter';
+  font-size: 1.5rem;
+  font-weight: 700;
+
+}
+.attribution{
+  margin-left: 70%;
+}
+h3{
+  color: hsl(35, 77%, 62%);
+  margin-top: 20px;
+  font-size: 3rem;
+  font-family: 'Inter';
+  font-weight: 700;
+}
+hr{
+  background-color: C;
+  width: 100%;
+  margin: -0px;
+}
+h6{
+  color: hsl(236, 13%, 42%);
+  margin-top: 20px;
+  font-weight: 400;
+  font-family: 'Inter';
+  font-size: 1rem;
+  margin-bottom: -40px;
+  line-height: 30px;
+}
+h4{
+  color: hsl(236, 13%, 42%);
+  font-size: 3rem;
+  font-family: 'Inter';
+  font-weight: 700;
+}
